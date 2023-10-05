@@ -30,10 +30,15 @@ To install and set up the project locally, follow these steps:
 
     
 Technologies Used
-Front-End: React.js, Ant Design, Tailwind CSS
-Back-End: Node.js, Express
-Database: Supabase
-Version Control: Git
+
+Front-End: 
+React.js, Ant Design, Tailwind CSS
+Back-End: 
+Node.js, Express
+Database: 
+Supabase
+Version Control: 
+Git
 
 
 We'd like to give credit to the following technologies and libraries:
