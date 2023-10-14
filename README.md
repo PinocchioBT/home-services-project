@@ -26,7 +26,7 @@ To install and set up the project locally, follow these steps:
 
 5.Start the server-side:
 
-    npm run start
+    npm start
 
     
 Technologies Used
